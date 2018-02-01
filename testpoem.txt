@@ -1,4 +1,4 @@
-The Foods of the World
+The Foods and Drinks of the World
 
 Pizza
 Sushi
@@ -11,3 +11,9 @@ Spaghetti
 Pasta
 Steak
 Ramen
+Tea
+Coffee
+Water
+Juice
+Smoothies
+Milkshake
