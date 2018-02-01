@@ -9,3 +9,4 @@ Fruits
 Salad
 Spaghetti
 Pasta
+Steak
